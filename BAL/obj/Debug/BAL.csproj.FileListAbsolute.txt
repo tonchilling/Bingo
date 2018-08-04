@@ -1,0 +1,7 @@
+D:\Web\Bingo\PreTest\BAL\bin\Debug\BAL.dll
+D:\Web\Bingo\PreTest\BAL\bin\Debug\BAL.pdb
+D:\Web\Bingo\PreTest\BAL\obj\Debug\BAL.dll
+D:\Web\Bingo\PreTest\BAL\obj\Debug\BAL.pdb
+D:\Web\Bingo\PreTest\BAL\obj\Debug\BAL.csprojResolveAssemblyReference.cache
+D:\Web\Bingo\PreTest\BAL\bin\Debug\DTO.dll
+D:\Web\Bingo\PreTest\BAL\bin\Debug\DTO.pdb

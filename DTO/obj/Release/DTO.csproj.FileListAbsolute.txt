@@ -1,0 +1,4 @@
+D:\Web\Bingo\PreTest\DTO\bin\Release\DTO.dll
+D:\Web\Bingo\PreTest\DTO\bin\Release\DTO.pdb
+D:\Web\Bingo\PreTest\DTO\obj\Release\DTO.dll
+D:\Web\Bingo\PreTest\DTO\obj\Release\DTO.pdb

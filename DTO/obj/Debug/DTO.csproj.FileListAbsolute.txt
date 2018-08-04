@@ -1,0 +1,5 @@
+D:\Web\Bingo\PreTest\DTO\bin\Debug\DTO.dll
+D:\Web\Bingo\PreTest\DTO\bin\Debug\DTO.pdb
+D:\Web\Bingo\PreTest\DTO\obj\Debug\DTO.dll
+D:\Web\Bingo\PreTest\DTO\obj\Debug\DTO.pdb
+D:\Web\Bingo\PreTest\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
